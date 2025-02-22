@@ -34,7 +34,7 @@ Este es un sencillo proyecto web que permite realizar un sorteo de "Amigo Secret
 
 ---
 
-###🛠 Tecnologías Utilizadas
+### 🛠 Tecnologías Utilizadas
 
 - HTML5
 
