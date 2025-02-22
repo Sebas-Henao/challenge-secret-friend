@@ -1,10 +1,4 @@
-<html>
-<p align="center">
-  <img src="assets/Readme/js-logo.png" width="100">
-  <img src="assets/Readme/html5-logo.png" width="100">
-  <img src="assets/Readme/css3-logo.png" width="100">
-</p>
-</html>
+![Logo de JavaScript](assets/Readme/js-logo.png)![Logo de Html](assets/Readme/html5-logo.png)![Logo de Css](assets/Readme/css3-logo.png)
 ---
 
 #Amigo Secreto 🎁
